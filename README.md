@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
