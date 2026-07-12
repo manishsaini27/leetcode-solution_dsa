@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
