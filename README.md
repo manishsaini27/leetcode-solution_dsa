@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0231-power-of-two) |
+| [1025-divisor-game](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
