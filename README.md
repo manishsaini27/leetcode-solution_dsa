@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1025-divisor-game) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
