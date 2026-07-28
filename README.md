@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
