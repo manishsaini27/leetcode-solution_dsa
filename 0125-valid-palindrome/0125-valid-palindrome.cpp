@@ -1,56 +1,38 @@
 class Solution {
 public:
-
-    string removeSpecialCharacter(string s) {
-
+    string removeduplicate(string s) {
         string ans = "";
-
-        for(int i = 0; i < s.length(); i++) {
-
-            if((s[i] >= 'a' && s[i] <= 'z') ||
-               (s[i] >= 'A' && s[i] <= 'Z') ||
-               (s[i] >= '0' && s[i] <= '9')) {
-
+        for(int i =0 ; i< s.length(); i++) {
+            if(s[i]>='a' && s[i] <= 'z' || s[i]>='A' && s[i] <= 'Z' ||s[i]>='0' && s[i] <= '9' ){
                 ans.push_back(s[i]);
             }
         }
-
         return ans;
     }
-
-
-    string toLowerCase(string s) {
-
-        for(int i = 0; i < s.length(); i++) {
-
-            if(s[i] >= 'A' && s[i] <= 'Z') {
-                s[i] = s[i] - 'A' + 'a';
+    string tolowercase(string s) {
+        for(int i =0; i< s.length() ; i++){
+            if(s[i] >= 'A' && s[i] <='Z'){
+                s[i] = s[i] - 'A' +'a';
             }
         }
-
         return s;
     }
-
-
     bool isPalindrome(string s) {
+        s = removeduplicate(s);
+        s = tolowercase(s);
 
-        s = removeSpecialCharacter(s);
-
-        s = toLowerCase(s);
-
-        int left = 0;
-        int right = s.length() - 1;
-
-        while(left < right) {
-
-            if(s[left] != s[right]) {
+        int start = 0;
+        int end = s.length()-1;
+        for( int  i = start ; i< end; i++){
+            if(s[start] != s[end]){
                 return false;
             }
-
-            left++;
-            right--;
+            start++;
+            end--;
+            
         }
-
         return true;
+        
+        
     }
 };
