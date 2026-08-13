@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
@@ -82,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
