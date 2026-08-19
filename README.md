@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -83,9 +84,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
