@@ -1,47 +1,35 @@
-
 class Solution {
 public:
-
-    bool isFrequencysame(int freq1[], int freq2[]) {
-        for (int i = 0; i < 26; i++) {
-            if (freq1[i] != freq2[i]) {
+    bool isfrequencySame( int freq1[], int freq2[]){
+        for(int i= 0; i< 26; i++) {
+            if( freq1[i] !=  freq2[i]){
                 return false;
             }
         }
         return true;
     }
-
     bool checkInclusion(string s1, string s2) {
-
         int freq[26] = {0};
-
-        // Frequency of s1
-        for (int i = 0; i < s1.length(); i++) {
+        for(int i=0;i< s1.length(); i++){
             freq[s1[i] - 'a']++;
         }
 
-        int windSize = s1.length();
-
-        for (int i = 0; i < s2.length(); i++) {
-
-            int winIdx = 0;
+        int windsize = s1.length();
+        for(int i=0; i<s2.length(); i++){
+            int windidx = 0;
             int idx = i;
-
-            int windFreq[26] = {0};
-
-            while (winIdx < windSize && idx < s2.length()) {
-
-                windFreq[s2[idx] - 'a']++;
-
-                winIdx++;
+            int windfreq[26] = {0};
+            while(windidx< windsize && idx< s2.length()){
+                windfreq[s2[idx]- 'a']++;
                 idx++;
-            }
+                windidx++;
 
-            if (isFrequencysame(freq, windFreq)) {
+            }
+            if (isfrequencySame( freq ,windfreq)){
                 return true;
             }
         }
-
         return false;
+
     }
 };
