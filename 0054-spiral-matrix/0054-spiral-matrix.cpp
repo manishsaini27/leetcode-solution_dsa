@@ -1,45 +1,53 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m = matrix.size();
+        int m =matrix.size();
         int n = matrix[0].size();
         int minr =0;
-        int minc=0;
-        int maxr = m-1;
-        int maxc = n-1;
-        int tne = m*n;
-        int count = 0;
+        int maxr= m-1;
+        int minc =0;
+        int maxc =n-1;
         vector<int>v;
-
-        while(minr<=maxr && minc<=maxc){
-            //rigth
-            for(int j=minc; j<=maxc && count<tne ;j++){
+        while(minr<= maxr && minc <= maxc) {
+            for(int j=minc;j<=maxc;j++) {
                 v.push_back(matrix[minr][j]);
-                count++;
             }
             minr++;
+            if(minr>maxr || minc>maxc){
+                break;
+            }
 
-            //down
-            for(int i= minr; i<=maxr && count<tne ;i++) {
+            for(int i=minr ; i<=maxr ;i++){
                 v.push_back(matrix[i][maxc]);
-                count++;
             }
             maxc--;
-            //left
-            for(int j=maxc; j>=minc && count<tne;j--) {
+            if(minr>maxr || minc>maxc){
+                break;
+            }
+
+            for(int j=maxc;j>=minc; j--){
                 v.push_back(matrix[maxr][j]);
-                count++;
+
             }
             maxr--;
-        
-            //up
-            for(int i=maxr ;i>=minr&& count<tne ;i--){
+            if(minr>maxr || minc>maxc){
+                break;
+            }
+
+            for(int i=maxr;i>=minr; i--) {
                 v.push_back(matrix[i][minc]);
-                count++;
             }
             minc++;
+            if(minr>maxr || minc>maxc){
+                break;
+            }
             
         }
+
         return v;
+
+        
+        
+
     }
 };
