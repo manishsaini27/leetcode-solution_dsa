@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
