@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0867-transpose-matrix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Number Theory
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
