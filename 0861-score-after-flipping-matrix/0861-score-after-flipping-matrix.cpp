@@ -3,52 +3,53 @@ public:
     int matrixScore(vector<vector<int>>& grid) {
         int rows = grid.size();
         int cols = grid[0].size();
-        //making the first element all ones
-        for(int i=0;i<rows ; i++) {
-            if(grid[i][0]==0) {
-                for(int j=0;j<cols; j++) {
+
+        //fliping the first element of the rows and cols matrix
+        for(int i =0; i<rows;i++) {
+            if(grid[i][0] == 0) {
+                for(int j=0 ; j<cols ; j++) {
                     if(grid[i][j] == 0) {
-                        grid[i][j] = 1;
+                        grid[i][j] =1;
                     }else{
-                        grid[i][j]=0;
+                        grid[i][j] = 0;
                     }
-                    
                 }
             }
         }
 
-        //flip the cols where noz>noO
-        for(int j= 0; j< cols; j++) {
-            int noZ =0 ;
-            int noO = 0; 
-            for(int i =0;i<rows ; i++) {
-                if(grid[i][j] ==0) {
-                    noZ++;
-
+        
+        for(int j=0;j<cols ; j++) {
+            int noz =0;
+            int noo= 0;
+            for(int i=0; i<rows; i++) {
+                if(grid[i][j] == 0){
+                noz++;
                 }else{
-                    noO++;
+                noo++;
                 }
             }
-            if(noZ>noO){
-                for(int i=0;i<rows;i++) {
-                    if(grid[i][j] == 0) {
+            if(noz > noo) {
+                for(int i=0;i<rows ; i++) {
+                    if(grid[i][j]==0) {
                         grid[i][j] = 1;
-                    }else{
+                    }
+                    else{
                         grid[i][j]=0;
                     }
-                    
                 }
-            }    
+
+            }
+
         }
-        int sum = 0 ;
-        for(int i= 0; i<rows ;i++) {
-            int x=1;
-            for(int j=cols- 1; j >=0; j--){
-                sum += grid[i][j]*x;
+        
+        int sum = 0;
+        for(int i=0;i<rows ;i++) {
+            int x= 1;
+            for(int j=cols-1; j>=0;j--) {
+                sum = sum + grid[i][j]*x;
                 x = x*2;
             }
         }
         return sum;
-        
     }
 };
