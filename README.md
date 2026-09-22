@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
