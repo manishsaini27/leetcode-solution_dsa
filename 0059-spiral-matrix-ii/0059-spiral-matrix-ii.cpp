@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-       
+       // IN THIS QUESTION WE HAVE TO INITIALIZE NUM WITH 1 AND SIMPLY ADDED IN TO THE MATRIX FOR THE 1-N2 NUMBERS...
         int minr = 0;
         int maxr= n-1;
         int minc= 0;
