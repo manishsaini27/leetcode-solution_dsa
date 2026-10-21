@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
