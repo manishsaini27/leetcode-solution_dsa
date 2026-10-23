@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
+| [2326-spiral-matrix-iv](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1572-matrix-diagonal-sum) |
+| [2326-spiral-matrix-iv](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1920-build-array-from-permutation) |
+| [2326-spiral-matrix-iv](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2326-spiral-matrix-iv](https://github.com/manishsaini27/leetcode-solution_dsa/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
